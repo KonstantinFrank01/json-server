@@ -1,0 +1,37 @@
+[
+    {
+        "name": "schliergruambuam",
+        "leiter": [
+            {
+                "leitername": "Thomas Stehrer",
+                "alter": 16
+            },
+            {
+                "leitername": "David Kinast",
+                "alter": 17
+            }
+        ],
+        "kinder": [
+            {
+                "kindername": "Sebastian Waldhör",
+                "alter": 10
+            },
+            {
+                "kindername": "Lukas Kinast",
+                "alter": 10
+            },
+            {
+                "kindername": "Konstantin Frank",
+                "alter": 11
+            },
+            {
+                "kindername": "Markus Kasper",
+                "alter": 11
+            },
+            {
+                "kindername": "David Fürthauer",
+                "alter": 11
+            }
+        ]
+    }
+]
